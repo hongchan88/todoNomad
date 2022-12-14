@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/todoNomad/static/js/main.11d5158c.chunk.js",
+    "main.js.map": "/todoNomad/static/js/main.11d5158c.chunk.js.map",
+    "runtime-main.js": "/todoNomad/static/js/runtime-main.587bc73b.js",
+    "runtime-main.js.map": "/todoNomad/static/js/runtime-main.587bc73b.js.map",
+    "static/js/2.92d4a875.chunk.js": "/todoNomad/static/js/2.92d4a875.chunk.js",
+    "static/js/2.92d4a875.chunk.js.map": "/todoNomad/static/js/2.92d4a875.chunk.js.map",
+    "index.html": "/todoNomad/index.html",
+    "static/js/2.92d4a875.chunk.js.LICENSE.txt": "/todoNomad/static/js/2.92d4a875.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.587bc73b.js",
+    "static/js/2.92d4a875.chunk.js",
+    "static/js/main.11d5158c.chunk.js"
+  ]
+}
